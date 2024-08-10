@@ -1,6 +1,6 @@
 ### Description
 
-Aplikasi presensi kantor berbasis mobile dengan face recognition. Versi mobile digunakan untuk pegawai melakukan presensi. Versi web digunakan admin untuk manajemen data presensi. Versi web dapat dilihat pada [![versi-mobile]][versi-mobile-url].
+Aplikasi presensi kantor berbasis mobile dengan face recognition. Versi mobile digunakan untuk pegawai melakukan presensi. Versi web digunakan admin untuk manajemen data presensi. Versi web dapat dilihat pada [![versi-web]][versi-web-url].
 
 ### Feature
 
